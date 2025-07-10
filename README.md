@@ -79,6 +79,7 @@ Try the Fake News Detector in your browser:
 
 ## 🧪 Test it in Google Colab
 
-[![Open In Colab][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AshwinSinha-2004/Fake-News-Generator-Detector-Generative-AI/blob/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AshwinSinha-2004/Fake-News-Generator-Detector-Generative-AI/blob/main/Fake_News_Generator_&_Detector_using_Generative-AI_&_NLP.ipynb)
+
 
 Try the model in Colab with a live demo and sample inputs.
