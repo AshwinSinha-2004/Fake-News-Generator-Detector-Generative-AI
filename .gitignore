@@ -1,0 +1,33 @@
+# Byte‑compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.envrc
+
+# Data files
+data/
+Fake.csv.zip
+True.csv.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# MacOS
+.DS_Store
