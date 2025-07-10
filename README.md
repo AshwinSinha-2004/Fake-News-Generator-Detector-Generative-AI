@@ -67,3 +67,18 @@ This project:
 
 ---
 
+## 🚀 Live Demo
+
+Try the Fake News Detector in your browser:  
+👉 [https://b609ba1d78fa3a310d.gradio.live](https://b609ba1d78fa3a310d.gradio.live)
+
+⚠️ Note: This is a temporary link hosted via Gradio on Google Colab. It may expire after a few days.
+⚠️ Note: Due to hardware constraints, the model was trained on a reduced dataset, which may affect accuracy. For better results, retrain using the full dataset on a GPU/TPU-enabled environment.
+
+---
+
+## 🧪 Test it in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/drive/1R0_HjFmBqhjkqyAKCKLSWij0I2TLrzh6?authuser=1)
+
+Try the model in Colab with a live demo and sample inputs.
