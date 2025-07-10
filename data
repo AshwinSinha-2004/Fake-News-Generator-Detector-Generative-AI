@@ -1,0 +1,9 @@
+📂 Data
+
+**Place the following files in the project root before running:**
+
+1. True_News.csv — 21 418 verified real headlines (Kaggle)
+    Containing the columns : title,	text,	subject,	date
+
+2. Fake_News.csv — 23 503 synthetic or labeled fake headlines (Kaggle)
+    Containing the columns : title,	text,	subject,	date
