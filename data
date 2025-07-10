@@ -7,3 +7,6 @@
 
 2. Fake_News.csv — 23 503 synthetic or labeled fake headlines (Kaggle)
     Containing the columns : title,	text,	subject,	date
+
+You can find these files in this repository itself or you can find it in Kaggle using the link:
+    (https://www.kaggle.com/datasets/ashwinsinha5599/fake-news-detector-and-generator)
